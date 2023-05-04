@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @PranavTyagi-3
+- 📓 Currently doing B tech. in CSE from VIT Bhopal ('25 passing)
+- 💻 Likes making full stack projects using Flask
 - 👀 I’m interested in Machine Learning with Python
 
 
