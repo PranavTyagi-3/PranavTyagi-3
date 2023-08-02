@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @PranavTyagi-3
+
+<h2 align="center">Hello Visitors <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
+<hr>
+<p align="center"> Myself Pranav Tyagi </p>
+<p align="center">Currently doing B tech. in CSE from VIT Bhopal ('25 passing)</p>
+<p align="center">👀 Learning ML and web develeopmet</p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ >
+
 - 📓 Currently doing B tech. in CSE from VIT Bhopal ('25 passing)
 - 💻 Likes making full stack projects using Flask
 - 👀 I’m interested in Machine Learning with Python
@@ -11,7 +18,21 @@
 
 
 ## My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PranavTyagi-3&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/PranavTyagi-3">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=PranavTyagi-3&theme=dark&background=000000" alt="Pranav's Contributions"/>    
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTyagi-3&layout=compact&theme=vision-friendly-dark">
+  </a>
+   
+   <a href="https://github.com/PranavTyagi-3"><img alt="Pranav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=PranavTyagi-3&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
+<br>
+<p align="center">
+  <a href="https://github.com/PranavTyagi-3">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavTyagi-3&theme=radical" alt="Pranav's Contributions"/>
+  </a>
+   
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavTyagi-3&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
