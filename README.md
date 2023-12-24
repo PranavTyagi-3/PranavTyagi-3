@@ -3,7 +3,7 @@
 <hr>
 <p align="center"> <h3 align="center">Myself Pranav Tyagi</h3> </p>
 <p align="center">Currently doing B tech. in CSE from VIT Bhopal ('25 passing)</p>
-<p align="center">👀 Learning ML and web develeopmet</p>
+<p align="center">👀 Learning ML and web development</p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ >
 </p>
