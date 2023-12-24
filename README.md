@@ -31,7 +31,7 @@
    
 </p>
 
-![Snake animation](https://github.com/PranavTyagi-3/PranavTyagi-3/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/PranavTyagi-3/PranavTyagi-3/blob/output/github-contribution-grid-snake.svg" />
 
 <!---
 PranavTyagi-3/PranavTyagi-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
