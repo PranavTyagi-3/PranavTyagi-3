@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/ >
 </p>
 <p align="center">
-   <a href="https://www.linkedin.com/in/pranav-tyagi-597a24230/">
+   <a href="https://www.linkedin.com/in/pranav-tyagi-597a24230/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:pranavww@gmail.com">
