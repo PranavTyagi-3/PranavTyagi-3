@@ -35,6 +35,8 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 [![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/AyushB21)
+[![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-3776AB?style=for-the-badge&logo=pythonanywhere&logoColor=white)](https://www.pythonanywhere.com/user/AyushB21/)
+
 ---
 
 <h3 align="left">Machine Learning: </h3>
@@ -48,6 +50,8 @@
   ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+  [![DVC](https://img.shields.io/badge/DVC-Data%20Version%20Control-brightgreen?style=for-the-badge)](https://dvc.org/)
+
 
 ---
 
