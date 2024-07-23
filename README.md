@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello Visitors <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
 
----
 
 <p align="center"> <h3 align="center">Myself Pranav Tyagi</h3> </p>
 <p align="center">Currently doing B tech. in CSE from VIT Bhopal ('25 passing)</p>
@@ -93,18 +92,7 @@
 
 ---
 
-<details>
-  <summary>Trophies</summary>
-  <div align="center">
-     
-![](https://github-profile-trophy.vercel.app/?username=PranavTyagi-3&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-    
-  </div>
-</details>
-
----
-
-<details>
+<details open>
    <summary>My Stats</summary>
 <p align="center">
   <a href="https://github.com/PranavTyagi-3">
@@ -123,6 +111,18 @@
    
 </p>
 
+</details>
+
+
+---
+
+<details>
+  <summary>Trophies</summary>
+  <div align="center">
+     
+![](https://github-profile-trophy.vercel.app/?username=PranavTyagi-3&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+    
+  </div>
 </details>
 
 ---
